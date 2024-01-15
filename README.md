@@ -1,4 +1,3 @@
-##### ![SkyPRO](https://github.com/Stellareign/DIPLOMA_WORK/assets/115870673/d7f92bee-15da-4105-989d-4a301e2d405c) 
 # Доска объявлений 
 
 <h3 align="center"> Командная работа.</h3>
